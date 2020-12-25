@@ -53,14 +53,14 @@ class _HomeState extends State<Home> {
                         : MainAxisAlignment.center,
                     children: <Widget>[
                       Text(
-                        "AppGuy",
+                        "Recipes",
                         style: TextStyle(
                             fontSize: 18,
                             color: Colors.white,
                             fontFamily: 'Overpass'),
                       ),
                       Text(
-                        "Recipes",
+                        "App",
                         style: TextStyle(
                             fontSize: 18,
                             color: Colors.blue,
